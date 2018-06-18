@@ -29,7 +29,7 @@
     right: 30px;
     padding: 20px 40px 20px 20px;
     max-width: 350px;
-    background: #ffe0e0;
+    background: #fdfcef;
     border-radius: 5px;
     box-shadow: 0 3px 15px rgba(0,0,0,0.2)
   `)
